@@ -1,3 +1,5 @@
+MADClean is a joomla template based on Joomlart's Purity 3 template which is OpenSource.
+
 Hello world, this is Purity III
 ==========
 
